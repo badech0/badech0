@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @badech0
+- 👀 I’m interested in hardware/software development and music!
+- 🌱 I’m currently learning to develop hardware and produce music!
